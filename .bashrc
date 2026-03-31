@@ -345,5 +345,4 @@ GIT_PROMPT_THEME="Solarized"	# theme
 #GIT_PROMPT_START="${bBlue}[${bnc}\h${bBlue}:${bnc}\w${bBlue}]${bnc}"
 source ~/.bash-git-prompt/gitprompt.sh
 
-
 clear # clear the screen if something is on it
