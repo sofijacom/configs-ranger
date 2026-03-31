@@ -71,7 +71,7 @@
 
 	// ** RIGHT ** //
     "network": {
-        // "interface": "wlp2*", // (Optional) To force the use of this interface
+        "interface": "enp6s0*", // (Optional) To force the use of this interface
         "format-wifi": "({signalStrength}%) ",
         "format-ethernet": "{ifname}: {ipaddr}/{cidr} 🖧",
         "format-linked": "{ifname} (No IP) ⓿",
